@@ -9,7 +9,7 @@ predict when the big bang will happen again.
 This project includes a JavaScript file (`script.js`) that iterates through the numbers 1 to 100, replacing numbers divisible by 3 with "BIG", by 5 with "BANG", and by both 3 and 5 with "BIG BANG".
 
 ## Requirements
-Ensure that yoiu have Node.js installed on your machine.
+Ensure that you have Node.js installed on your machine.
 Clone this repository.
 
 ## Running
